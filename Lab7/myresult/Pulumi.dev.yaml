@@ -1,0 +1,4 @@
+config:
+  azure-native:location: WestEurope
+  lab7:NodeCount: 1
+  lab7:KubernetesVersion: 1.23.8
