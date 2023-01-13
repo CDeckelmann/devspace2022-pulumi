@@ -1,0 +1,4 @@
+config:
+  lab1:myname: Christoph-dev
+  lab1:mysecret:
+    secure: AAABAOGPYoMB9w16QxfAMVrY9mGeNTHKvgA1a6H8UGbiZ6Bs9PCf7qbM

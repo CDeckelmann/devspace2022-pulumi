@@ -1,0 +1,4 @@
+config:
+  lab1:myname: Christoph-staging
+  lab1:mysecret:
+    secure: AAABABvl7MVq9WDL4g1yUnlo8WCteiaiYhqnJPBF095SfsrNuAcJAaYL
